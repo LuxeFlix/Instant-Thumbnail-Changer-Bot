@@ -22,7 +22,7 @@ DB_NAME = "thumbnail_bot"
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
 # Owner/Admin
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1261590582"))
 # CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
@@ -37,9 +37,9 @@ START_PICS = [
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
-CHANNEL_URL = os.environ.get("CHANNEL_URL", "https://t.me/cantarellabots")
-DEV_URL = os.environ.get("DEV_URL", "https://t.me/cantarella_wuwa")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "0"))  # e.g., -100xxxxxxxxxxxx
+CHANNEL_URL = os.environ.get("CHANNEL_URL", "https://t.me/Luxebotupdate")
+DEV_URL = os.environ.get("DEV_URL", "https://t.me/Ninadavydova1")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1003843367604"))  # e.g., -100xxxxxxxxxxxx
 # CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
